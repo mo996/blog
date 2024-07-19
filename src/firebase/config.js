@@ -2,12 +2,12 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore, serverTimestamp } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyATvv0oqh6BMyqNFUeDDslMllB9dbITaFo",
-    authDomain: "blog-b435c.firebaseapp.com",
-    projectId: "blog-b435c",
-    storageBucket: "blog-b435c.appspot.com",
-    messagingSenderId: "1042075018626",
-    appId: "1:1042075018626:web:36aa364f7acabddf615b9b"
+    apiKey: "...",
+    authDomain: "....firebaseapp.com",
+    projectId: "blog-...",
+    storageBucket: "blog-....appspot.com",
+    messagingSenderId: "...",
+    appId: "1:...:web:36aa364f7acabddf615b9b"
 };
 
 // Initialize Firebase
